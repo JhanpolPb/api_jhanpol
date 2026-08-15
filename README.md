@@ -3,3 +3,4 @@
 - Laravel
 - Docker Compose
 - Docker Images
+- METODOS HTTP
