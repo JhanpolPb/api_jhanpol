@@ -4,3 +4,7 @@
 - Docker Compose
 - Docker Images
 - METODOS HTTP
+- Migraciones
+
+# Autor
+Jhanpol Parra
